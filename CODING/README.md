@@ -23,7 +23,8 @@
         Acccording to this data is transfer in the form of plain text , hypertext,audio,video etc.
 
 ## 4. What is TCP Protocol?
-      TCP stands for Transmission Control Protocol. It is a transport layer protocol that facilitates the transmission of packets from source to destination.  
+      TCP stands for Transmission Control Protocol. It is a transport layer protocol that facilitates the transmission 
+      of packets from source to destination.  
 
 ## 5. Explain all the different HTTP methods?
         * GET
@@ -35,11 +36,13 @@
         * CONNECT
 
 ## 6. What are HTTP headers?
-        The HTTP headers are used to pass additional information between the clients and the server through the request and response header.       
+        The HTTP headers are used to pass additional information between the clients and the server through 
+        the request and response header.       
 
 ## 7. What are some HTTP response codes? what does it mean? 2xx, 3xx, 4xx, 5xx      
          Its a server response to a browser's request.
-         i.e. whwn we visit any website then the browser sends the request to the site server, then server request the browser with the three digit code.
+         i.e. whwn we visit any website then the browser sends the request to the site server, 
+         then server request the browser with the three digit code.
          
          * 2xx- success
          * 3xx- redirection
@@ -89,7 +92,8 @@
         * Requests Per Second
 
 ## 18.  What does the following term mean?
-        * Time to first byte:- Time between the browser requesting a page and the time when it will receive the first byte
+        * Time to first byte:- Time between the browser requesting a page and the time when it will receive 
+        the first byte
 
         * Page load time:-The average amount of time it takes for a page to show up on your screen.
 
