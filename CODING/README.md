@@ -59,11 +59,11 @@
 
 ## 12.  How is web sockets different from HTTP?
 
-        | Web Socket       | HTTP           |
-        | ------------- |:-------------:|
-        | bi-directional communication     | unidirectional communication|
-        | used in trading,monitoring etc    | used in RESTful application      |
-        | Its faster then HTTP | little bit slower    |              
+        | Web Socket                       | HTTP                               |
+        | -------------                    |:-------------:                     |
+        | bi-directional communication     | unidirectional communication       |
+        | used in trading,monitoring etc   | used in RESTful application        |
+        | Its faster then HTTP             | little bit slower                  |              
 
 ## 13.  What is HTTPS?
         Hypertext transfer protocol secure is the secure version of HTTP used to send data between browser and website.
@@ -96,4 +96,16 @@
         It helps when more then one user request from a website.
 
 ## 20.  What is the difference between Client Side Renderring and Server Side Renderring?
-                 
+        CSR:-
+
+        SSR:-
+
+## 21.  What is Progressive Renderring?
+        Progressive rendering is the techniques which is used to render content for display as quickly as possible.
+
+## 22.  What is the difference between Preloading and Prefetching resources?
+        - Preload is an early fetch instruction to the browser to request a resource needed for a page
+        - Prefetch where fetched resources and requests need to persist across navigations.
+
+## 23.  What are service workers?
+        Its acts like a proxy server that sit between the web application, the browser and the available network                      
