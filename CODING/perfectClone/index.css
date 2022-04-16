@@ -1,0 +1,27 @@
+#container{
+    width: 70%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.result>img{
+    height: 200px;
+    width: 200px;
+    margin: 5%;
+}
+
+@media only screen and (max-width: 600px) {
+    #container{
+        width: 70%;
+        margin: auto;
+        display: grid;
+        grid-template-columns: auto auto ;
+    }
+    
+    .result>img{
+        height: 100px;
+        width: 100px;
+        margin: 5%;
+    }
+}
